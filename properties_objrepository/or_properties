@@ -1,0 +1,4 @@
+signIn=//*[@id="MenuContent"]/a[2]
+user=username
+pass=password
+login=signon

@@ -1,0 +1,10 @@
+<suite name="parameter">
+	<test name="accountData">
+	<parameter name="userId" value="tasmia12"/>
+	<parameter name="password" value="123456"/>
+	<parameter name="repeat password" value="123456"/>
+	<classes>
+		<class name="POM_JpetStore.user_Info"/>
+	</classes>
+	</test>
+</suite>
